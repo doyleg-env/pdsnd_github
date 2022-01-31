@@ -204,7 +204,7 @@ def user_stats(df):
     # TO DO: Display earliest, most recent, and most common year of birth
     #if df['Birth Year'].count() > 0:
     try: #handle exceptions thrown due to no data
-        print('\n\nSome data on the users birth year is:\n')
+        print('\n\nSome data provided for the users birth year is:\n')
         earliest_birth_year = int(df['Birth Year'].min())
         recent_birth_year = int(df['Birth Year'].max())
         common_birth_year = int(df['Birth Year'].mode()[0])
