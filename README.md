@@ -16,8 +16,8 @@ Files in this repository are:
 
 Date files (not included in this repository) are:
     - chicago.csv
-    new_york_city.csv
-    washington.csv
+    - new_york_city.csv
+    - washington.csv
 
 ### Credits
 This work has been completed using the information provided in the Udacity Programming for Data Science with Python Nano Degree Program
